@@ -7,3 +7,4 @@ at home2222
 at office 2222222
 
 funcion a() {}
+funcion b()
